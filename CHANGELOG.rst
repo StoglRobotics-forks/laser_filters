@@ -2,8 +2,8 @@
 Changelog for package laser_filters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.9.1 (2024-07-17)
+------------------
 * Fix polygon padding on filter load
 * Added nodelet for scan filtering pipeline
 * Pass in public node handle from nodelet to allow for correct topic remapping
